@@ -1,0 +1,11 @@
+title: "Selected Work"
+subtitle: >
+  Check out some of the projects we've developed!
+items:
+  - image: "../uploads/bold-motion-thumbnail.png"
+    title: "Bold Motion"
+    description: >
+      Bold Motion is a sleek Next.JS portfolio website designed to showcase
+      creativity with elegance and efficiency. It's also the project that
+      powers this very website!
+    href: "https://github.com/writeonlycode/bold-motion"
