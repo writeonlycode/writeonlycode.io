@@ -9,3 +9,12 @@ items:
       creativity with elegance and efficiency. It's also the project that
       powers this very website!
     href: "https://github.com/writeonlycode/bold-motion"
+
+  - image: "../uploads/parallactic-gallery-thumbnail.png"
+    title: "Parallactic Gallery"
+    description: >
+      Parallactic Gallery is a minimalist web application designed for users to
+      anonymously upload and explore images. It offers a straightforward and
+      intuitive platform for sharing visual content without the need for user
+      accounts or complicated interfaces.
+    href: "https://github.com/writeonlycode/parallactic-gallery"
