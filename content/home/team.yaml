@@ -1,0 +1,7 @@
+title: "Who We Are"
+subtitle: ""
+members:
+  - image: "../uploads/iago-bozza.jpg"
+    name: "Iago Bozza"
+    description: >
+      Full-Stack Developer with expertise in Hugo SSG, Next.JS and Supabase
