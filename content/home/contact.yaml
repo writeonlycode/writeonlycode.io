@@ -1,7 +1,7 @@
 title: "Get in Touch!"
 text: >
-  If you are looking to develop a website or a full-stack application, reach
-  out to us and we'll be happy to help you!
+  If you are looking to develop or need assistance with a website or a
+  full-stack application, reach out to us and we'll be happy to help you!
 button: "Send Message"
 action: "https://api.web3forms.com/submit"
 method: "POST"
