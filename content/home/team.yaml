@@ -4,4 +4,4 @@ members:
   - image: "../uploads/iago-bozza.jpg"
     name: "Iago Bozza"
     description: >
-      Full-Stack Developer with expertise in Hugo SSG, Next.JS and Supabase
+      Full-Stack Developer with expertise in Rust, Hugo SSG, Next.JS and Supabase
