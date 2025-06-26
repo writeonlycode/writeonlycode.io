@@ -16,6 +16,9 @@ export default function Icon({ icon, className, ...props }: IconProps) {
     case "twitter":
       const Twitter = dynamic(() => import("../icons/_TwitterX"));
       return <Twitter className={className} />;
+    case "fiverr":
+      const Fiverr = dynamic(() => import("../icons/_Fiverr"));
+      return <Fiverr className={className} />;
     default:
       const Component = dynamic(() => import("../icons/_TwitterX"));
       return <Component className={className} />;
