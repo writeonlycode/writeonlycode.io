@@ -18,3 +18,11 @@ items:
       intuitive platform for sharing visual content without the need for user
       accounts or complicated interfaces.
     href: "https://github.com/writeonlycode/parallactic-gallery"
+
+  - image: "../uploads/up-business-thumbnail.png"
+    title: "Up Business"
+    description: >
+      Up Business is a clean and modern Hugo theme, inspired on light
+      illustrations with a modern look, that can be used for companies as a
+      landing page or to showcase a product.
+    href: "https://github.com/writeonlycode/hugo-up-business"
