@@ -4,6 +4,10 @@ social:
     label: "GitHub"
     href: "https://github.com/writeonlycode"
 
+  - icon: "linkedin"
+    label: "LinkedIn"
+    href: "https://www.linkedin.com/in/iagobozza/"
+
   - icon: "twitter"
     label: "Twitter"
     href: "https://twitter.com/writeonlycode"
@@ -11,3 +15,11 @@ social:
   - icon: "fiverr"
     label: "Fiverr"
     href: "https://fiverr.com/writeonlycode"
+
+  - icon: "contra"
+    label: "Contra"
+    href: "https://iagobozza.contra.com/"
+
+  - icon: "upwork"
+    label: "Upwork"
+    href: "https://upwork.com/freelancers/~014e65a27c93e5d4c4"

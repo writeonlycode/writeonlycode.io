@@ -19,6 +19,15 @@ export default function Icon({ icon, className, ...props }: IconProps) {
     case "fiverr":
       const Fiverr = dynamic(() => import("../icons/_Fiverr"));
       return <Fiverr className={className} />;
+    case "upwork":
+      const Upwork = dynamic(() => import("../icons/_Upwork"));
+      return <Upwork className={className} />;
+    case "contra":
+      const Contra = dynamic(() => import("../icons/_Contra"));
+      return <Contra className={className} />;
+    case "linkedin":
+      const LinkedIn = dynamic(() => import("../icons/_LinkedIn"));
+      return <LinkedIn className={className} />;
     default:
       const Component = dynamic(() => import("../icons/_TwitterX"));
       return <Component className={className} />;
