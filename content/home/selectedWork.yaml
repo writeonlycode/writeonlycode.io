@@ -2,7 +2,7 @@ title: "Selected Work"
 subtitle: >
   Check out some of the projects We've developed!
 items:
-  - image: "../uploads/bold-motion-thumbnail.png"
+  - image: "../uploads/work-bold-motion-thumbnail.png"
     title: "Bold Motion"
     description: >
       Bold Motion is a sleek Next.JS portfolio website designed to showcase
@@ -10,7 +10,7 @@ items:
       powers this very website!
     href: "https://github.com/writeonlycode/bold-motion"
 
-  - image: "../uploads/parallactic-gallery-thumbnail.png"
+  - image: "../uploads/work-parallactic-gallery-thumbnail.png"
     title: "Parallactic Gallery"
     description: >
       Parallactic Gallery is a minimalist web application designed for users to
@@ -19,10 +19,17 @@ items:
       accounts or complicated interfaces.
     href: "https://github.com/writeonlycode/parallactic-gallery"
 
-  - image: "../uploads/up-business-thumbnail.png"
+  - image: "../uploads/work-up-business-thumbnail.png"
     title: "Up Business"
     description: >
       Up Business is a clean and modern Hugo theme, inspired on light
       illustrations with a modern look, that can be used for companies as a
       landing page or to showcase a product.
     href: "https://github.com/writeonlycode/hugo-up-business"
+
+  - image: "../uploads/work-agency-web-thumbnail.png"
+    title: "Agency Web"
+    description: >
+      Agency Web is a clean and professional Hugo theme for digital agencies,
+      startups, and modern product landing pages.
+    href: "https://github.com/writeonlycode/hugo-agency-web"

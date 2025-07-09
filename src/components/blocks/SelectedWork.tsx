@@ -40,6 +40,7 @@ export default function SelectedWork({
                 <AnimationFadeIn key={index}>
                   <Link
                     href={item.href}
+                    target="_blank"
                     className="block hover:scale-[1.1] active:scale-[1] duration-300"
                   >
                     <div className="relative aspect-[1/1] mb-[1rem]">
@@ -69,6 +70,7 @@ export default function SelectedWork({
                 <AnimationFadeIn key={index}>
                   <Link
                     href={item.href}
+                    target="_blank"
                     className="block hover:scale-[1.1] active:scale-[1] duration-300"
                   >
                     <div className="relative aspect-[1/1] mb-[1rem]">
